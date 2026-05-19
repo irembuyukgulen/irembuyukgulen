@@ -45,15 +45,11 @@ Driven by curiosity and a commitment to code quality, I aim to create sustainabl
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=irembuyukgulen&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irembuyukgulen&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=irembuyukgulen&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <i>✨ Feel+free+to+explore+my+projects+👩‍💻 ✨</i>
+  <i>✨ Feel free to explore my projects ✨</i>
 </p>
