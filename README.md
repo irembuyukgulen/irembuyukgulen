@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋 Welcome to my GitHub profile ✨</h1>
+<h1 align="center">Hi 👋 Welcome ✨</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236A5ACD&lines=JavaScript+Developer+%7C+Turkey;I+build+user-focused+web+applications;Always+learning%2C+always+shipping+🚀;Feel+free+to+explore+my+projects+👩‍💻)
 
-<h2>My name is İrem 👩‍💻</h2>
-<h3>About me:</h3>
-
+<h2>I'm İrem 👩‍💻</h2>
 As a passionate JavaScript Developer, I focus on building clean, maintainable, and user-centered web applications.
 
 With experience across the full software development lifecycle, I enjoy designing efficient algorithms, solving technical problems, and contributing to high-quality codebases. I work with modern frontend and backend technologies — including React, Spring Boot, REST APIs, and JWT Authentication — and thrive in collaborative, agile environments.
