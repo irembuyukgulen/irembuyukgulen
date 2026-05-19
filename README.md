@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 Welcome ✨</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236A5ACD&lines=JavaScript+Developer+%7C+Turkey;I+build+user-focused+web+applications;Always+learning%2C+always+shipping+🚀;Feel+free+to+explore+my+projects+👩‍💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236A5ACD&lines=JavaScript+Developer;I+build+user-focused+web+applications;Professional+bug+creator+%26+fixer+🐛;git+commit+-m+"trust+me+it+works";console.log("still+learning")+//+always+true)
 
 <h2>I'm İrem 👩‍💻</h2>
 
@@ -56,5 +56,5 @@ Driven by curiosity and a commitment to code quality, I aim to create sustainabl
 ---
 
 <p align="center">
-  <i>✨ "Sustainable code, user-focused solutions." ✨</i>
+  <i>✨ Feel+free+to+explore+my+projects+👩‍💻 ✨</i>
 </p>
