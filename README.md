@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 Welcome ✨</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236A5ACD&lines=JavaScript+Developer+%7C+Turkey;I+build+user-focused+web+applications;Always+learning%2C+always+shipping+🚀;Feel+free+to+explore+my+projects+👩‍💻)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&text=Hi,%20I'm%20İrem%20👩‍💻&fontSize=40&height=200&fontColor=fff&animation=fadeIn&desc=JavaScript%20Developer%20%7C%20Turkey&descAlignY=75&descSize=18)
 
 <h2>I'm İrem 👩‍💻</h2>
 As a passionate JavaScript Developer, I focus on building clean, maintainable, and user-centered web applications.
