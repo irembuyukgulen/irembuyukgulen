@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋 Welcome ✨</h1>
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&text=Hi,%20I'm%20İrem%20👩‍💻&fontSize=40&height=200&fontColor=fff&animation=fadeIn&desc=JavaScript%20Developer%20%7C%20Turkey&descAlignY=75&descSize=18)
 
-<h2>I'm İrem 👩‍💻</h2>
+<h3>About me:</h3>
+
 As a passionate JavaScript Developer, I focus on building clean, maintainable, and user-centered web applications.
 
 With experience across the full software development lifecycle, I enjoy designing efficient algorithms, solving technical problems, and contributing to high-quality codebases. I work with modern frontend and backend technologies — including React, Spring Boot, REST APIs, and JWT Authentication — and thrive in collaborative, agile environments.
@@ -49,11 +48,17 @@ Driven by curiosity and a commitment to code quality, I aim to create sustainabl
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irembuyukgulen&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
+## ⏱️ Coding Activity
+
 <p align="center">
-  <i>✨ "Sustainable code, user-focused solutions." ✨</i>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&layout=compact" />
 </p>
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer)
