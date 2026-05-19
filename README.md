@@ -9,7 +9,6 @@ As a passionate software developer, I focus on building clean, maintainable, and
 With experience across the full software development lifecycle, I enjoy designing efficient algorithms, solving technical problems, and contributing to high-quality codebases. I work with modern frontend and backend technologies — including React, Spring Boot, REST APIs, and JWT Authentication — and thrive in collaborative, agile environments.
 
 Driven by curiosity and a commitment to code quality, I aim to create sustainable solutions that genuinely serve users at every stage of development.
-
 <br>
 
 ---
