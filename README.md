@@ -1,25 +1,17 @@
-<h1 align="center">Hi there, I'm İrem 👋</h1>
+<h1 align="center">Hi 👋 Welcome to my GitHub profile ✨</h1>
 
-<p align="center">
-  <b>JavaScript Developer · Computer Engineer · Ankara, Turkey</b>
-</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236A5ACD&lines=JavaScript+Developer+%7C+Turkey;I+build+user-focused+web+applications;Always+learning%2C+always+shipping+🚀;Feel+free+to+explore+my+projects+👩‍💻)
 
-<p align="center">
-  <a href="https://linkedin.com/in/irem-buyukgulen"><img src="https://img.shields.io/badge/LinkedIn-irem--buyukgulen-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:irem0807@gmail.com"><img src="https://img.shields.io/badge/Email-irem0807@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=irem-buyukgulen&color=blueviolet&style=flat" />
-</p>
+<h2>My name is İrem 👩‍💻</h2>
+<h3>About me:</h3>
 
----
+As a passionate JavaScript Developer, I focus on building clean, maintainable, and user-centered web applications.
 
-## 👩‍💻 About Me
+With experience across the full software development lifecycle, I enjoy designing efficient algorithms, solving technical problems, and contributing to high-quality codebases. I work with modern frontend and backend technologies — including React, Spring Boot, REST APIs, and JWT Authentication — and thrive in collaborative, agile environments.
 
-I'm a **Computer Engineer** from Ankara University, working as a **JavaScript Developer** at Vairosoft since March 2022. I specialize in building sustainable, user-focused software solutions across the full development lifecycle — from requirements analysis to UAT support.
+Driven by curiosity and a commitment to code quality, I aim to create sustainable solutions that genuinely serve users at every stage of development.
 
-- 🔭 Currently working on client-facing web projects at **Vairosoft**
-- 🌱 Always exploring new tools and frameworks in the JS ecosystem
-- 🎮 Built educational math games for primary school students (Unity & Java)
-- 🌍 English — C1 · TOEFL iBT 100/120
+<br>
 
 ---
 
@@ -59,33 +51,8 @@ I'm a **Computer Engineer** from Ankara University, working as a **JavaScript De
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irembuyukgulen&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎮 [Oyunlarla Matematik](https://github.com/irembuyukgulen)
-> Educational math games for primary school students — Graduation Project
-
-3 interactive games designed to make math learning fun and engaging. Built with **Unity** and **C#**, focused on child-friendly UX.
-
-### 🎮 Math Games — Internship Project
-> Internship at Ankara University | July–September 2020
-
-Developed educational games supporting math learning for young students using **Java** (NetBeans & Eclipse).
-
----
-
-## 💼 Experience
-
-**JavaScript Developer @ Vairosoft** *(March 2022 – Present)*
-- Full SDLC participation across multiple client-facing projects
-- Algorithm design, technical problem solving, and code quality focus
-- UAT support and technical documentation for test environments
-- REST API development with JWT Authentication
-- Stack: `JavaScript` · `React` · `Spring Boot` · `PostgreSQL` · `Oracle Cloud`
 
 ---
 
