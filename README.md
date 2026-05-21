@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 Welcome ✨</h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236A5ACD&duration=3000&pause=1000&lines=JavaScript+Developer;I+build+user-focused+web+applications;Professional+bug+creator+%26+fixer+🐛;git+commit+-m+"trust+me+it+works";console.log("still+learning")+//+always+true)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%236A5ACD&duration=3000&pause=500&lines=JavaScript+Developer;I+build+user-focused+web+applications;Professional+bug+creator+%26+fixer+🐛;git+commit+-m+"trust+me+it+works";console.log("still+learning"))
 
 <h2>I'm İrem 👩‍💻</h2>
 
